@@ -27,6 +27,7 @@ p {
 }
 
 footer {
+    min-width: min-content block;
     margin-top: 25px;
     padding: 0.5cm 1cm;
     background-color: black;
